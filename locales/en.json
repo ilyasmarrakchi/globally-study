@@ -1,0 +1,403 @@
+{
+  "meta": {
+    "title": "GlobAlly Study — The peer support network for international students in France",
+    "description": "Practical guides and peer support for international students in France: residence permit, renting without a guarantor, undergraduate and postgraduate admissions.",
+    "guidesDescription": "Step-by-step guides for international students in France: residence permit (VLS-TS), housing guarantee (garantie Visale), admissions (Études en France, Mon Master, AST).",
+    "joinDescription": "Ask a question about your procedures in France or become a mentor for international students.",
+    "notFoundTitle": "Page not found",
+    "checklistDescription": "Every checklist from the GlobAlly Study guides in one place, with progress saved on your device."
+  },
+  "common": {
+    "baseline": "The peer support network for international students in France",
+    "skipToContent": "Skip to main content"
+  },
+  "nav": {
+    "home": "Home",
+    "guides": "Guides",
+    "checklist": "Checklist",
+    "join": "Join the network",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "mainNavigation": "Main navigation",
+    "languageLabel": "Choose language",
+    "switchToFrench": "View the site in French",
+    "switchToEnglish": "View the site in English"
+  },
+  "home": {
+    "hero": {
+      "baselineHighlight": "peer support",
+      "subtitle": "Residence permits, renting without a guarantor, health insurance, admissions: French bureaucracy is much easier when someone has already been through it. GlobAlly Study brings together verified guides and students ready to help you.",
+      "ctaGuides": "Explore the guides",
+      "ctaJoin": "Ask a question / Become a mentor",
+      "highlights": [
+        "Guides written by students who went through the same procedures",
+        "Official French terms explained in plain English",
+        "Free, no sign-up needed to read the guides"
+      ]
+    },
+    "steps": {
+      "eyebrow": "How it works",
+      "title": "Three steps to move forward with confidence",
+      "subtitle": "Every administrative procedure follows the same logic: understand it, anticipate it, then ask someone who knows the ground.",
+      "items": [
+        {
+          "title": "Understand the procedures",
+          "text": "Structured, step-by-step guides explaining what the French administration actually expects from you: residence permit portal (ANEF), family benefits office (CAF), health insurance (Ameli), housing guarantee (Visale), Campus France."
+        },
+        {
+          "title": "Avoid the classic pitfalls",
+          "text": "Missed deadlines, incomplete files, fake housing listings: we list the most common mistakes so you don't have to make them yourself."
+        },
+        {
+          "title": "Talk to a student already in France",
+          "text": "Ask your question and get matched with a mentor who already studies in France and has faced the same situation as you."
+        }
+      ]
+    },
+    "featured": {
+      "eyebrow": "Featured guides",
+      "title": "The three guides to read first",
+      "subtitle": "These cover the questions we receive most often during the first months in France.",
+      "viewAll": "See all guides"
+    },
+    "cta": {
+      "title": "Already been through it?",
+      "text": "One hour a month is enough to save a newcomer weeks of stress. Become a mentor and share what you wish you had known.",
+      "button": "Become a mentor"
+    }
+  },
+  "guides": {
+    "eyebrow": "Resource library",
+    "title": "Practical guides for every step of your journey",
+    "subtitle": "Key steps, required documents, practical tips and a checklist to tick off: everything you need to move forward without wasting time.",
+    "filterLabel": "Filter by category",
+    "categories": {
+      "all": "All",
+      "admin": "Administrative",
+      "housing": "Housing",
+      "studies": "Studies & AST"
+    },
+    "readingTime": "{minutes} min read",
+    "readGuide": "Read the guide",
+    "backToGuides": "Back to guides",
+    "updated": "Updated November 2026",
+    "empty": "No guides in this category yet.",
+    "sections": {
+      "steps": "Key steps",
+      "documents": "Required documents",
+      "tips": "Practical tips",
+      "pitfalls": "Pitfalls to avoid",
+      "checklist": "Action checklist",
+      "sources": "Official sources"
+    },
+    "checklist": {
+      "progress": "{done} of {total} steps completed",
+      "reset": "Reset",
+      "hint": "Your progress is saved on this device.",
+      "complete": "Well done, every step is completed!"
+    },
+    "disclaimer": "Amounts, deadlines and eligibility rules change regularly. Always check the official websites listed below before starting a procedure.",
+    "helpBox": {
+      "title": "A specific situation?",
+      "text": "Every case is different. Describe yours and a student mentor will get back to you.",
+      "button": "Ask a question"
+    },
+    "items": {
+      "arrival-checklist": {
+        "title": "Arrival checklist: the 4 procedures of your first months in France",
+        "summary": "Validate your student visa (VLS-TS) on the ANEF portal, open a bank account, register for health insurance (Assurance Maladie) and apply for housing benefit (CAF), in the right order.",
+        "intro": "Your first weeks in France go by fast: moving in, starting classes, new routines. Yet four procedures shape the rest of your stay, and they depend on one another: no bank account means no health insurance reimbursements (Assurance Maladie), and no validated residence permit means no housing benefit (aide au logement). Here is the order we recommend.",
+        "steps": [
+          {
+            "title": "Validate your student visa within 3 months (validation VLS-TS sur l'ANEF)",
+            "text": "If your visa says “VLS-TS étudiant”, it counts as a residence permit (titre de séjour), but only once it has been validated. Go to the official foreign nationals portal (ANEF: administration-etrangers-en-france.interieur.gouv.fr), create an account and enter your visa details, your date of entry into France and your address. You will pay the residence fee online with an electronic tax stamp (timbre fiscal électronique), €50 for students at the time of writing. Do it as soon as you have an address: after 3 months in France without validation, you are staying irregularly and must leave France to apply for a new visa."
+          },
+          {
+            "title": "Open a student bank account",
+            "text": "A French bank account and its bank details form (RIB, relevé d'identité bancaire) are essential for the family benefits office (CAF), health insurance (Assurance Maladie), your rent and any student job. High-street banks offer student packages, often free for the first year; some online banks accept international students as soon as they arrive. If a bank refuses to open an account for you, you can apply to the Banque de France, which will designate a bank that is required to open one (droit au compte, the legal right to a bank account)."
+          },
+          {
+            "title": "Register for French social security (Assurance Maladie / Ameli)",
+            "text": "Registration is free and mandatory for non-EU students. It is done online at etudiant-etranger.ameli.fr once you are enrolled at your institution. You will first receive a temporary number, then a permanent social security number that lets you create your ameli.fr account and order your health card (carte Vitale). Then register a regular doctor (médecin traitant) to be reimbursed at the full rate, and consider top-up health insurance (mutuelle), or the free supplementary cover (Complémentaire santé solidaire - C2S) if your income is low. EU students use their European Health Insurance Card (carte européenne d'assurance maladie - CEAM)."
+          },
+          {
+            "title": "Apply for housing benefit (aide au logement, via the CAF)",
+            "text": "As soon as you sign your lease, run a simulation and submit an application online at caf.fr. Depending on your housing, you will receive personalised housing assistance (APL, aide personnalisée au logement) or social housing allowance (ALS, allocation de logement sociale). The benefit is never paid for your first month in the property, and a late application costs you months of entitlement: apply the week you move in. Your landlord will need to fill in a rent certificate (attestation de loyer), often directly online."
+          }
+        ],
+        "documents": [
+          "Passport with your student visa (VLS-TS)",
+          "Proof of address in France (lease, host's accommodation certificate (attestation d'hébergement) or CROUS residence certificate)",
+          "Enrolment certificate from your institution (certificat de scolarité)",
+          "Full birth certificate (acte de naissance intégral), with a sworn translation (traducteur assermenté) if needed",
+          "Electronic tax stamp (timbre fiscal) bought on timbres.impots.gouv.fr",
+          "Bank details form (RIB) for your French bank account",
+          "Signed lease and rent certificate (attestation de loyer) for the CAF"
+        ],
+        "tips": [
+          "Create an email address dedicated to your paperwork and keep every scanned document as a PDF in an online folder: you will send them dozens of times.",
+          "Download your visa validation certificate from the ANEF portal and keep it with your passport: it proves your right to stay in France during an ID check or when travelling.",
+          "On ameli.fr and caf.fr, check your personal inbox every week: requests for additional documents arrive there, rarely by post.",
+          "If you move, update your address everywhere on the same day: ANEF, CAF, Ameli and your bank."
+        ],
+        "pitfalls": [
+          "Waiting until the end of the third month to validate your VLS-TS: one technical glitch or typo and you miss the deadline.",
+          "Paying websites that offer to “speed up” the validation: the procedure is done only on the official ANEF portal, and the only payment is the tax stamp (timbre fiscal).",
+          "Forgetting to get your birth certificate translated: it is the number one reason health insurance files (dossier Ameli) get stuck.",
+          "Applying to the CAF several months after moving in: the months already passed are not paid retroactively."
+        ],
+        "checklist": [
+          "I validated my VLS-TS on the ANEF portal and downloaded the certificate",
+          "I opened a bank account and have my bank details form (RIB)",
+          "I registered on etudiant-etranger.ameli.fr",
+          "I received my permanent social security number and created my ameli.fr account",
+          "I registered a regular doctor (médecin traitant)",
+          "I applied for housing benefit (aide au logement) on caf.fr"
+        ],
+        "sources": [
+          {
+            "label": "ANEF — student visa validation (VLS-TS)",
+            "url": "https://administration-etrangers-en-france.interieur.gouv.fr"
+          },
+          {
+            "label": "Ameli — registration for international students",
+            "url": "https://etudiant-etranger.ameli.fr"
+          },
+          {
+            "label": "CAF — housing benefit",
+            "url": "https://www.caf.fr"
+          },
+          {
+            "label": "Banque de France — right to a bank account (droit au compte)",
+            "url": "https://www.banque-france.fr"
+          }
+        ]
+      },
+      "rent-without-guarantor": {
+        "title": "Renting in France without a family guarantor: the Visale guarantee and the perfect rental file",
+        "summary": "How the free housing guarantee (garantie Visale) for under-30s works, how to build a strong rental application (dossier locatif) and how to spot housing scams.",
+        "intro": "In France, most landlords ask for a guarantor (garant) who lives in France and earns around three times the rent. For an international student, that is often impossible. The good news: the French state created a free housing guarantee (garantie Visale) that plays exactly this role. You still need to get it at the right time and present a file that reassures landlords.",
+        "steps": [
+          {
+            "title": "Check your eligibility for the housing guarantee (garantie Visale)",
+            "text": "The Visale guarantee, run by Action Logement, is free for young people aged 18 to 30 inclusive, students included, whatever their nationality, provided they are legally resident. It covers unpaid rent towards the landlord. For students without income, the rent including service charges (charges comprises) is capped (€800 in the Paris region (Île-de-France) and €600 elsewhere at the time of writing): check the current caps on visale.fr before you start searching."
+          },
+          {
+            "title": "Get your certified approval before signing (visa certifié Visale)",
+            "text": "Create your account on visale.fr, upload your documents (ID, visa or residence permit, enrolment certificate) and enter the maximum rent you are targeting. Visale issues a certified approval (visa certifié), usually within 48 hours. It is valid for 3 months and must be obtained before the lease is signed. Landlords are not obliged to accept it, but it costs them nothing: present it as a selling point."
+          },
+          {
+            "title": "Build a complete rental application (dossier locatif)",
+            "text": "Prepare a single PDF file containing only the documents landlords are legally allowed to request. The government service DossierFacile (dossierfacile.logement.gouv.fr) helps you build it, checks your documents and gives you a link to share with landlords. Add a short introduction: your studies, length of stay, budget and your Visale guarantee."
+          },
+          {
+            "title": "Sign the lease and activate the guarantee",
+            "text": "Once you have found a place, the landlord enters the lease on visale.fr and signs the guarantee agreement (contrat de cautionnement) online. When you move in, carry out a detailed check-in inspection (état des lieux) with photos, and take out home insurance (assurance habitation): it is mandatory and will be requested when you get the keys."
+          }
+        ],
+        "documents": [
+          "ID (passport) and a valid student visa (VLS-TS) or residence permit (titre de séjour)",
+          "Enrolment certificate (certificat de scolarité)",
+          "Visale certified approval (visa certifié)",
+          "Proof of resources: scholarship certificate, regular bank transfers, student work contract",
+          "Proof of current address (host's accommodation certificate (attestation d'hébergement) if you are staying with someone)",
+          "Home insurance certificate (attestation d'assurance habitation), required when you get the keys"
+        ],
+        "tips": [
+          "French law forbids landlords from demanding certain documents: bank statements (relevés de compte), health card (carte Vitale), ID photos, or a bank reference letter (attestation de bonne tenue de compte). You can politely refuse to provide them.",
+          "Watermark every document you send with Filigrane Facile (filigrane.beta.gouv.fr): it prevents your papers from being reused fraudulently.",
+          "The security deposit (dépôt de garantie) is capped at 1 month's rent excluding charges for an unfurnished flat and 2 months for a furnished one.",
+          "Also consider CROUS student residences and private student residences: they accept Visale and make it easier to claim housing benefit (CAF)."
+        ],
+        "pitfalls": [
+          "Paying anything before the property has been visited (by you or someone you trust) and a lease has been signed.",
+          "Landlords “living abroad” who ask for a bank transfer, a Western Union payment or a prepaid card to “send the keys”: this is always a scam.",
+          "Listings with suspiciously low rent in a sought-after area, overly perfect photos and a contact who rushes you.",
+          "Signing a lease before getting your Visale approval: the guarantee will not apply."
+        ],
+        "checklist": [
+          "I checked the Visale rent caps for my city",
+          "I obtained my certified approval (visa certifié) on visale.fr",
+          "My file is ready on DossierFacile, with watermarked documents",
+          "I visited the property or had the listing checked by someone I trust",
+          "The landlord signed the Visale guarantee agreement (contrat de cautionnement)",
+          "I took out home insurance (assurance habitation) and completed the check-in inspection (état des lieux)"
+        ],
+        "sources": [
+          {
+            "label": "Visale — free housing guarantee",
+            "url": "https://www.visale.fr"
+          },
+          {
+            "label": "DossierFacile — verified rental application",
+            "url": "https://www.dossierfacile.logement.gouv.fr"
+          },
+          {
+            "label": "Filigrane Facile — protect your documents",
+            "url": "https://filigrane.beta.gouv.fr"
+          },
+          {
+            "label": "Service-Public.fr — documents a landlord may request",
+            "url": "https://www.service-public.fr/particuliers/vosdroits/F1169"
+          }
+        ]
+      },
+      "study-in-france-orientation": {
+        "title": "Applying from abroad for undergraduate or postgraduate studies in France",
+        "summary": "Campus France procedure (Études en France), prior admission request (DAP), Parcoursup, Mon Master and parallel admissions (Admissions Sur Titre - AST) to grandes écoles: which route fits your profile.",
+        "intro": "Coming to study in France from abroad does not go through a single platform: the procedure depends on your nationality, your diploma and the type of programme you are aiming for. Choosing the wrong route can cost you a whole year. This guide helps you identify the right procedure, then stick to a timeline that starts almost a year before the academic year.",
+        "steps": [
+          {
+            "title": "Identify your application route",
+            "text": "If you live in one of the countries covered by the Campus France procedure (procédure Études en France), you must apply through the Études en France platform, which also serves as the basis for your visa application. EU nationals and holders of the French baccalaureate use the national platforms, just like French applicants. Other applicants go through the French embassy or apply directly to institutions."
+          },
+          {
+            "title": "Undergraduate: prior admission request (demande d'admission préalable - DAP) or Parcoursup",
+            "text": "For the first year of a bachelor's degree (première année de licence) at a public university, non-EU applicants with a foreign diploma submit a prior admission request (DAP), usually between October and mid-December of the year before the course starts. For selective programmes (BUT, BTS, preparatory classes (classes préparatoires), post-baccalaureate schools), applications are mostly made on Parcoursup, between January and March. A French language level is required: the TCF DAP test, or a DELF B2 / DALF diploma."
+          },
+          {
+            "title": "Postgraduate: Mon Master and direct applications",
+            "text": "To enter the first year of a master's degree at a public university, the national platform Mon Master (monmaster.gouv.fr) centralises applications, usually from late February to late March, with results in June. If you fall under the Campus France procedure (Études en France), your applications go through it instead. Get a statement of comparability for your diploma (attestation de comparabilité) from ENIC-NARIC France: it helps admission panels assess your level."
+          },
+          {
+            "title": "Grandes écoles: parallel admissions (Admissions Sur Titre - AST)",
+            "text": "Business and engineering schools also recruit students after two, three or four years of higher education through parallel admissions (Admissions Sur Titre - AST). For business schools, the joint entrance exams Passerelle and Tremplin cover several schools; other schools run their own selection. Expect an application file, tests (TAGE MAGE or GMAT, TOEIC or IELTS) and interviews. Many schools also offer a separate “international admissions” track, taught in English, with several intakes per year."
+          },
+          {
+            "title": "Plan your funding and visa",
+            "text": "At public universities, non-EU students pay differentiated tuition fees (frais d'inscription différenciés), €2,850 per year for a bachelor's and €3,879 for a master's at the time of writing, but many institutions grant fee waivers (exonérations). For your student visa, you must prove sufficient resources (€615 per month at the time of writing). Plan ahead: visa offices are very busy between June and August."
+          }
+        ],
+        "documents": [
+          "Diplomas and transcripts, with certified French translations",
+          "ENIC-NARIC statement of comparability (attestation de comparabilité), recommended",
+          "French test results (TCF, DELF, DALF) or English test results (TOEFL, IELTS) depending on the programme",
+          "A cover letter (lettre de motivation) tailored to each programme",
+          "A French-style CV (one page, clear and factual)",
+          "Recommendation letters for master's programmes and grandes écoles",
+          "Proof of resources for your visa application"
+        ],
+        "tips": [
+          "Build a backward plan from September of the year before you start: most deadlines fall between December and April.",
+          "For each programme, read the expected skills (attendus) published on Parcoursup or Mon Master and address them explicitly in your cover letter.",
+          "Balance highly selective programmes with more accessible ones: submit several relevant applications rather than betting everything on a single school.",
+          "Ask a student already admitted to the programme to review your file: they know what the panel really expects."
+        ],
+        "pitfalls": [
+          "Missing the December DAP deadline: you will have to wait a full year to start a bachelor's degree.",
+          "Applying directly to a university when your country falls under the Campus France procedure (Études en France): your application will not be accepted.",
+          "Confusing accredited institutions with private organisations whose diplomas are not state-recognised: check that the diploma is state-approved (visé) or listed in the national register (RNCP).",
+          "Underestimating how long certified translations and language tests take: it can exceed a month."
+        ],
+        "checklist": [
+          "I identified my route (Études en France, DAP, Parcoursup, Mon Master or direct application)",
+          "I put every deadline in my calendar",
+          "I took or booked my language test",
+          "I had my diplomas and transcripts translated",
+          "I wrote a specific cover letter (lettre de motivation) for each programme",
+          "I prepared my proof of resources for the visa"
+        ],
+        "sources": [
+          {
+            "label": "Campus France — Études en France procedure",
+            "url": "https://www.campusfrance.org"
+          },
+          {
+            "label": "Parcoursup — undergraduate programmes",
+            "url": "https://www.parcoursup.gouv.fr"
+          },
+          {
+            "label": "Mon Master — master's applications",
+            "url": "https://www.monmaster.gouv.fr"
+          },
+          {
+            "label": "France Éducation international — ENIC-NARIC",
+            "url": "https://www.france-education-international.fr"
+          }
+        ]
+      }
+    }
+  },
+  "checklistPage": {
+    "eyebrow": "Personal checklist",
+    "title": "All your steps in one place",
+    "subtitle": "Find the checklists from all three guides, grouped by category. Tick off each step as you go through your procedures.",
+    "notice": "No account needed: your progress is saved automatically on this device.",
+    "progressTitle": "Your progress",
+    "progress": "{done}/{total} steps completed",
+    "complete": "Well done, every step is completed!",
+    "reset": "Reset my checklist",
+    "resetConfirm": "Untick every step? This cannot be undone.",
+    "sectionsLabel": "Checklist sections",
+    "fromGuide": "From the guide:"
+  },
+  "join": {
+    "eyebrow": "Join the network",
+    "title": "Ask a question or become a mentor",
+    "subtitle": "Whether you are preparing your arrival or already studying in France, the GlobAlly Study network runs on peer-to-peer support.",
+    "aside": {
+      "title": "What happens next?",
+      "items": [
+        "We read every message and find the mentor best suited to your situation.",
+        "You get a reply by email, usually within 3 to 5 days.",
+        "Mentors are volunteer students: they share their experience, not legal advice."
+      ]
+    },
+    "form": {
+      "profileLegend": "Your profile",
+      "profiles": {
+        "seeker": {
+          "title": "International student",
+          "description": "I am looking for help with my procedures in France."
+        },
+        "mentor": {
+          "title": "Student in France",
+          "description": "I want to become a mentor and help newcomers."
+        }
+      },
+      "needLabel": "Area",
+      "needPlaceholder": "Choose an area",
+      "needs": {
+        "admin": "Administrative",
+        "housing": "Housing",
+        "orientation": "Study orientation",
+        "other": "Other"
+      },
+      "emailLabel": "Email address",
+      "emailPlaceholder": "name@example.com",
+      "messageLabel": "Your message",
+      "messagePlaceholderSeeker": "Describe your situation: home country, city of study, the procedure you are working on and what is blocking you.",
+      "messagePlaceholderMentor": "Introduce yourself: city, institution, year of study and the procedures you know well.",
+      "privacy": "Your email address is only used to reply to you. It is never shared.",
+      "submit": "Send",
+      "submitting": "Sending…",
+      "errors": {
+        "profile": "Please choose your profile.",
+        "need": "Please choose an area.",
+        "email": "Please enter a valid email address.",
+        "message": "Your message must be at least 20 characters long.",
+        "submit": "Sending failed. Check your connection and try again.",
+        "notConfigured": "The form is not connected to a sending service yet. Set FORMSPREE_ENDPOINT in components/join/JoinForm.tsx."
+      }
+    },
+    "success": {
+      "title": "Message received, thank you!",
+      "textSeeker": "We will look at your situation and connect you with a mentor. Keep an eye on your inbox, including your spam folder.",
+      "textMentor": "Thank you for joining the network. We will get back to you very soon to explain how mentoring works.",
+      "again": "Send another message",
+      "guides": "Browse the guides in the meantime"
+    }
+  },
+  "footer": {
+    "tagline": "The peer support network for international students in France.",
+    "navTitle": "Navigation",
+    "resourcesTitle": "Official resources",
+    "disclaimer": "GlobAlly Study is an independent peer support initiative. The information published here does not replace that of official authorities.",
+    "rights": "All rights reserved."
+  },
+  "notFound": {
+    "title": "This page could not be found",
+    "text": "The link may be incorrect, or the page may have moved.",
+    "button": "Back to home"
+  }
+}

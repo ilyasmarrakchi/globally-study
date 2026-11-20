@@ -1,0 +1,403 @@
+{
+  "meta": {
+    "title": "GlobAlly Study — Le réseau d’entraide des étudiants internationaux en France",
+    "description": "Guides pratiques et entraide entre pairs pour les étudiants internationaux en France : titre de séjour, logement sans garant, orientation post-bac et post-licence.",
+    "guidesDescription": "Guides pas à pas pour les étudiants internationaux en France : titre de séjour (VLS-TS), garantie Visale, admissions (Études en France, Mon Master, AST).",
+    "joinDescription": "Posez une question sur vos démarches en France ou devenez mentor pour les étudiants internationaux.",
+    "notFoundTitle": "Page introuvable",
+    "checklistDescription": "Toutes les checklists des guides GlobAlly Study réunies au même endroit, avec une progression enregistrée sur votre appareil."
+  },
+  "common": {
+    "baseline": "Le réseau d’entraide des étudiants internationaux en France",
+    "skipToContent": "Aller au contenu principal"
+  },
+  "nav": {
+    "home": "Accueil",
+    "guides": "Guides",
+    "checklist": "Checklist",
+    "join": "Rejoindre le réseau",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu",
+    "mainNavigation": "Navigation principale",
+    "languageLabel": "Choisir la langue",
+    "switchToFrench": "Afficher le site en français",
+    "switchToEnglish": "Afficher le site en anglais"
+  },
+  "home": {
+    "hero": {
+      "baselineHighlight": "entraide",
+      "subtitle": "Titre de séjour, logement sans garant, sécurité sociale, admissions : la bureaucratie française se comprend mieux quand quelqu'un est déjà passé par là. GlobAlly Study réunit des guides vérifiés et des étudiants prêts à vous aider.",
+      "ctaGuides": "Explorer les guides",
+      "ctaJoin": "Poser une question / Devenir mentor",
+      "highlights": [
+        "Guides rédigés par des étudiants passés par les mêmes démarches",
+        "Termes officiels expliqués simplement, en français et en anglais",
+        "Gratuit, sans inscription pour lire les guides"
+      ]
+    },
+    "steps": {
+      "eyebrow": "Comment ça marche",
+      "title": "Trois étapes pour avancer sereinement",
+      "subtitle": "Chaque démarche administrative suit la même logique : comprendre, anticiper, puis demander conseil à quelqu'un qui connaît le terrain.",
+      "items": [
+        {
+          "title": "Comprendre les démarches",
+          "text": "Des guides structurés, étape par étape, qui expliquent ce que l'administration attend vraiment de vous : ANEF, CAF, Ameli, Visale, Campus France."
+        },
+        {
+          "title": "Éviter les pièges classiques",
+          "text": "Délais dépassés, dossiers incomplets, fausses annonces de logement : nous listons les erreurs les plus fréquentes pour que vous ne les commettiez pas."
+        },
+        {
+          "title": "Échanger avec un étudiant déjà sur place",
+          "text": "Posez votre question et soyez mis en relation avec un mentor qui étudie déjà en France et a vécu la même situation que vous."
+        }
+      ]
+    },
+    "featured": {
+      "eyebrow": "Guides phares",
+      "title": "Les trois guides à lire en priorité",
+      "subtitle": "Ce sont les questions que nous recevons le plus souvent pendant les premiers mois en France.",
+      "viewAll": "Voir tous les guides"
+    },
+    "cta": {
+      "title": "Vous êtes déjà passé par là ?",
+      "text": "Une heure par mois suffit pour éviter à un nouvel arrivant des semaines de stress. Devenez mentor et partagez ce que vous auriez aimé savoir.",
+      "button": "Devenir mentor"
+    }
+  },
+  "guides": {
+    "eyebrow": "Bibliothèque de ressources",
+    "title": "Des guides concrets pour chaque étape de votre parcours",
+    "subtitle": "Étapes clés, documents requis, conseils pratiques et checklist à cocher : tout ce qu'il faut pour avancer sans perdre de temps.",
+    "filterLabel": "Filtrer par catégorie",
+    "categories": {
+      "all": "Tous",
+      "admin": "Administratif",
+      "housing": "Logement",
+      "studies": "Études & AST"
+    },
+    "readingTime": "{minutes} min de lecture",
+    "readGuide": "Lire le guide",
+    "backToGuides": "Retour aux guides",
+    "updated": "Mis à jour en novembre 2026",
+    "empty": "Aucun guide dans cette catégorie pour le moment.",
+    "sections": {
+      "steps": "Étapes clés",
+      "documents": "Documents requis",
+      "tips": "Conseils pratiques",
+      "pitfalls": "Pièges à éviter",
+      "checklist": "Checklist actionnable",
+      "sources": "Sources officielles"
+    },
+    "checklist": {
+      "progress": "{done} sur {total} étapes complétées",
+      "reset": "Réinitialiser",
+      "hint": "Votre progression est enregistrée sur cet appareil.",
+      "complete": "Bravo, toutes les étapes sont complétées !"
+    },
+    "disclaimer": "Les montants, délais et conditions d'éligibilité évoluent régulièrement. Vérifiez toujours les informations sur les sites officiels listés ci-dessous avant de lancer une démarche.",
+    "helpBox": {
+      "title": "Une situation particulière ?",
+      "text": "Chaque dossier est différent. Décrivez votre cas, un étudiant mentor vous répondra.",
+      "button": "Poser une question"
+    },
+    "items": {
+      "arrival-checklist": {
+        "title": "Checklist d'arrivée en France : les 4 démarches des premiers mois",
+        "summary": "Valider votre visa VLS-TS sur l'ANEF, ouvrir un compte bancaire, vous affilier à la sécurité sociale et demander l'aide au logement de la CAF, dans le bon ordre.",
+        "intro": "Les premières semaines en France vont vite : installation, rentrée, nouvelles habitudes. Pourtant, quatre démarches conditionnent tout le reste de votre séjour. Elles dépendent les unes des autres : sans compte bancaire, pas de remboursement de l'Assurance Maladie ; sans titre de séjour validé, pas d'aide au logement. Voici l'ordre que nous recommandons.",
+        "steps": [
+          {
+            "title": "Valider votre visa VLS-TS sur l'ANEF dans les 3 mois",
+            "text": "Si votre visa porte la mention « VLS-TS étudiant », il vaut titre de séjour, mais seulement après validation. Rendez-vous sur le site de l'ANEF (administration-etrangers-en-france.interieur.gouv.fr), créez un compte et saisissez les informations de votre visa, votre date d'entrée en France et votre adresse. Vous devrez payer la taxe de séjour en ligne par timbre fiscal électronique (50 € pour les étudiants au moment de la rédaction). Faites-le dès que vous avez une adresse : passé 3 mois après votre arrivée, vous êtes en situation irrégulière et devez quitter la France pour demander un nouveau visa."
+          },
+          {
+            "title": "Ouvrir un compte bancaire étudiant",
+            "text": "Un compte français et son RIB (relevé d'identité bancaire) sont indispensables pour la CAF, l'Assurance Maladie, votre loyer et un éventuel job étudiant. Les banques traditionnelles proposent des offres étudiantes, souvent gratuites la première année ; certaines banques en ligne acceptent les étudiants étrangers dès l'arrivée. Si une banque refuse de vous ouvrir un compte, vous pouvez saisir la Banque de France, qui désignera une banque obligée de vous l'ouvrir (droit au compte)."
+          },
+          {
+            "title": "S'affilier à la sécurité sociale (Assurance Maladie / Ameli)",
+            "text": "L'inscription est gratuite et obligatoire pour les étudiants non européens. Elle se fait en ligne sur etudiant-etranger.ameli.fr, une fois inscrit dans votre établissement. Vous recevrez d'abord un numéro provisoire, puis un numéro définitif qui permet de créer votre compte ameli.fr et de commander votre carte Vitale. Déclarez ensuite un médecin traitant pour être mieux remboursé, et pensez à une complémentaire santé (mutuelle), ou à la Complémentaire santé solidaire (C2S) si vos ressources sont faibles. Les étudiants européens utilisent leur carte européenne d'assurance maladie (CEAM)."
+          },
+          {
+            "title": "Demander l'aide au logement de la CAF",
+            "text": "Dès la signature de votre bail, faites une simulation puis une demande en ligne sur caf.fr. Selon votre logement, vous percevrez l'APL (aide personnalisée au logement) ou l'ALS (allocation de logement sociale). L'aide n'est jamais versée pour le premier mois d'occupation, et une demande tardive fait perdre des mois de droits : déposez-la la semaine de votre emménagement. Votre propriétaire devra remplir une attestation de loyer, souvent directement en ligne."
+          }
+        ],
+        "documents": [
+          "Passeport avec le visa VLS-TS",
+          "Justificatif de domicile en France (bail, attestation d'hébergement ou de résidence CROUS)",
+          "Certificat de scolarité ou attestation d'inscription de l'établissement",
+          "Acte de naissance intégral (avec traduction par un traducteur assermenté si nécessaire)",
+          "Timbre fiscal électronique acheté sur timbres.impots.gouv.fr",
+          "RIB de votre compte bancaire français",
+          "Bail signé et attestation de loyer pour la CAF"
+        ],
+        "tips": [
+          "Créez une adresse e-mail dédiée à vos démarches et rangez chaque document scanné en PDF dans un dossier en ligne : vous les enverrez des dizaines de fois.",
+          "Téléchargez l'attestation de validation de votre visa sur l'ANEF et gardez-la avec votre passeport : c'est elle qui prouve votre droit au séjour en cas de contrôle ou de voyage.",
+          "Sur ameli.fr comme sur caf.fr, consultez votre messagerie personnelle chaque semaine : les demandes de pièces complémentaires y arrivent, rarement par courrier.",
+          "Si vous changez d'adresse, mettez-la à jour partout le même jour : ANEF, CAF, Ameli, banque."
+        ],
+        "pitfalls": [
+          "Attendre la fin du 3e mois pour valider le VLS-TS : un bug ou une erreur de saisie et vous êtes hors délai.",
+          "Payer des sites qui proposent de « faciliter » la validation : la démarche se fait uniquement sur le site officiel de l'ANEF, et la seule somme à payer est le timbre fiscal.",
+          "Oublier de faire traduire son acte de naissance : c'est la première cause de dossier Ameli bloqué.",
+          "Déposer sa demande CAF plusieurs mois après l'emménagement : les mois écoulés ne sont pas rattrapés."
+        ],
+        "checklist": [
+          "J'ai validé mon visa VLS-TS sur l'ANEF et téléchargé l'attestation",
+          "J'ai ouvert un compte bancaire et obtenu mon RIB",
+          "Je me suis inscrit sur etudiant-etranger.ameli.fr",
+          "J'ai reçu mon numéro de sécurité sociale définitif et créé mon compte ameli.fr",
+          "J'ai déclaré un médecin traitant",
+          "J'ai fait ma demande d'aide au logement sur caf.fr"
+        ],
+        "sources": [
+          {
+            "label": "ANEF — validation du VLS-TS",
+            "url": "https://administration-etrangers-en-france.interieur.gouv.fr"
+          },
+          {
+            "label": "Ameli — inscription des étudiants étrangers",
+            "url": "https://etudiant-etranger.ameli.fr"
+          },
+          {
+            "label": "CAF — aides au logement",
+            "url": "https://www.caf.fr"
+          },
+          {
+            "label": "Banque de France — droit au compte",
+            "url": "https://www.banque-france.fr"
+          }
+        ]
+      },
+      "rent-without-guarantor": {
+        "title": "Louer sans garant familial en France : la garantie Visale et le dossier parfait",
+        "summary": "Comment fonctionne la garantie Visale, gratuite pour les moins de 30 ans, comment monter un dossier locatif solide et comment repérer les arnaques au logement.",
+        "intro": "En France, la plupart des propriétaires demandent un garant qui vit en France et gagne environ trois fois le loyer. Pour un étudiant international, c'est souvent impossible. La bonne nouvelle : l'État a créé la garantie Visale, gratuite, qui joue ce rôle. Encore faut-il l'obtenir au bon moment et présenter un dossier qui rassure.",
+        "steps": [
+          {
+            "title": "Vérifier votre éligibilité à Visale",
+            "text": "La garantie Visale, gérée par Action Logement, est gratuite pour les jeunes de 18 à 30 ans inclus, étudiants compris, quelle que soit leur nationalité, à condition d'être en situation régulière. Elle couvre les loyers impayés auprès du propriétaire. Pour les étudiants sans revenus, le loyer charges comprises est plafonné (800 € en Île-de-France et 600 € ailleurs au moment de la rédaction) : vérifiez les plafonds en vigueur sur visale.fr avant de chercher."
+          },
+          {
+            "title": "Obtenir votre visa certifié avant de signer",
+            "text": "Créez votre compte sur visale.fr, déposez vos pièces (pièce d'identité, visa ou titre de séjour, certificat de scolarité) et indiquez le loyer maximum visé. Visale vous délivre un « visa certifié », généralement sous 48 heures. Il est valable 3 mois et doit impérativement être obtenu avant la signature du bail. Le propriétaire n'est pas obligé de l'accepter, mais il n'a aucun frais à payer : présentez-le comme un argument."
+          },
+          {
+            "title": "Constituer un dossier locatif complet",
+            "text": "Préparez un dossier unique en PDF avec les pièces autorisées par la loi. Le service public DossierFacile (dossierfacile.logement.gouv.fr) vous aide à le monter, vérifie vos documents et vous donne un lien à partager avec les propriétaires. Ajoutez une courte présentation : vos études, la durée du séjour, votre budget et votre garantie Visale."
+          },
+          {
+            "title": "Signer le bail et activer la garantie",
+            "text": "Une fois le logement trouvé, le propriétaire saisit le bail sur visale.fr et signe en ligne le contrat de cautionnement. Lors de l'entrée, faites un état des lieux détaillé avec photos, et souscrivez une assurance habitation : elle est obligatoire et vous sera demandée dès la remise des clés."
+          }
+        ],
+        "documents": [
+          "Pièce d'identité (passeport) et visa VLS-TS ou titre de séjour en cours de validité",
+          "Certificat de scolarité ou attestation d'inscription",
+          "Visa certifié Visale",
+          "Justificatifs de ressources : attestation de bourse, virements réguliers, contrat de travail étudiant",
+          "Justificatif de domicile actuel (attestation d'hébergement si vous êtes logé chez quelqu'un)",
+          "Attestation d'assurance habitation (à fournir à la remise des clés)"
+        ],
+        "tips": [
+          "La loi interdit au propriétaire d'exiger certaines pièces : relevés de compte bancaire, carte Vitale, photo d'identité, attestation de bonne tenue de compte. Vous pouvez refuser poliment de les fournir.",
+          "Ajoutez un filigrane sur chaque document envoyé avec Filigrane Facile (filigrane.beta.gouv.fr) : cela empêche une réutilisation frauduleuse de vos papiers.",
+          "Le dépôt de garantie est limité à 1 mois de loyer hors charges pour un logement vide et à 2 mois pour un meublé.",
+          "Pensez aussi aux résidences CROUS et aux résidences étudiantes, qui acceptent Visale et facilitent l'accès aux aides de la CAF."
+        ],
+        "pitfalls": [
+          "Payer quoi que ce soit avant d'avoir visité le logement (vous-même ou une personne de confiance) et signé un bail.",
+          "Les propriétaires « à l'étranger » qui demandent un virement, un mandat Western Union ou une carte prépayée pour « envoyer les clés » : c'est toujours une arnaque.",
+          "Les annonces au loyer anormalement bas dans un quartier recherché, avec des photos trop parfaites et un interlocuteur pressé.",
+          "Signer un bail en ayant obtenu Visale après la signature : la garantie ne pourra pas s'appliquer."
+        ],
+        "checklist": [
+          "J'ai vérifié les plafonds de loyer Visale de ma ville",
+          "J'ai obtenu mon visa certifié sur visale.fr",
+          "Mon dossier est prêt sur DossierFacile, avec mes documents en filigrane",
+          "J'ai visité le logement ou fait vérifier l'annonce par une personne de confiance",
+          "Le propriétaire a signé le contrat de cautionnement Visale",
+          "J'ai souscrit une assurance habitation et fait l'état des lieux d'entrée"
+        ],
+        "sources": [
+          {
+            "label": "Visale — garantie locative gratuite",
+            "url": "https://www.visale.fr"
+          },
+          {
+            "label": "DossierFacile — dossier locatif vérifié",
+            "url": "https://www.dossierfacile.logement.gouv.fr"
+          },
+          {
+            "label": "Filigrane Facile — protéger ses documents",
+            "url": "https://filigrane.beta.gouv.fr"
+          },
+          {
+            "label": "Service-Public.fr — pièces exigibles par le bailleur",
+            "url": "https://www.service-public.fr/particuliers/vosdroits/F1169"
+          }
+        ]
+      },
+      "study-in-france-orientation": {
+        "title": "Réussir son orientation post-bac ou post-licence depuis l'étranger",
+        "summary": "Études en France, demande d'admission préalable, Parcoursup, Mon Master et admissions parallèles (AST) en grandes écoles : quelle procédure suivre selon votre profil.",
+        "intro": "Venir étudier en France depuis l'étranger ne passe pas par une seule plateforme : la procédure dépend de votre nationalité, de votre diplôme et du type de formation visé. Se tromper de voie peut faire perdre une année entière. Ce guide vous aide à identifier la bonne procédure, puis à respecter un calendrier qui commence près d'un an avant la rentrée.",
+        "steps": [
+          {
+            "title": "Identifier votre procédure",
+            "text": "Si vous résidez dans l'un des pays couverts par la procédure Études en France, vous candidatez obligatoirement sur la plateforme Études en France de Campus France, qui sert aussi de base à votre demande de visa. Les ressortissants de l'Union européenne et les titulaires du bac français utilisent les plateformes nationales comme les candidats français. Les autres candidats passent par l'ambassade de France ou directement par les établissements."
+          },
+          {
+            "title": "Post-bac : demande d'admission préalable (DAP) ou Parcoursup",
+            "text": "Pour une première année de licence à l'université, les candidats hors Union européenne titulaires d'un diplôme étranger déposent une demande d'admission préalable (DAP), en général entre octobre et mi-décembre de l'année précédant la rentrée. Pour les formations sélectives (BUT, BTS, classes préparatoires, écoles post-bac), la candidature se fait le plus souvent sur Parcoursup, entre janvier et mars. Un niveau de français est exigé : test TCF DAP, ou diplôme DELF B2 / DALF."
+          },
+          {
+            "title": "Post-licence : Mon Master et candidatures directes",
+            "text": "Pour entrer en première année de master dans une université publique, la plateforme nationale Mon Master (monmaster.gouv.fr) centralise les candidatures, généralement de fin février à fin mars, avec des résultats en juin. Si vous relevez de la procédure Études en France, vos candidatures passent par celle-ci. Faites établir une attestation de comparabilité de votre diplôme par ENIC-NARIC France : elle aide les jurys à situer votre niveau."
+          },
+          {
+            "title": "Grandes écoles : les admissions parallèles (AST)",
+            "text": "Les écoles de commerce et d'ingénieurs recrutent aussi après un bac+2, bac+3 ou bac+4 par les admissions sur titre (AST). Côté commerce, les concours communs Passerelle et Tremplin regroupent plusieurs écoles ; d'autres écoles organisent leurs propres épreuves. Attendez-vous à un dossier, à des tests (TAGE MAGE ou GMAT, TOEIC ou IELTS) et à des entretiens. Beaucoup d'écoles proposent aussi une voie « admissions internationales » distincte, en anglais, avec plusieurs sessions dans l'année."
+          },
+          {
+            "title": "Préparer le financement et le visa",
+            "text": "Dans les universités publiques, les étudiants hors Union européenne paient des frais d'inscription différenciés (2 850 € par an en licence et 3 879 € en master au moment de la rédaction), mais de nombreux établissements accordent des exonérations. Pour le visa étudiant, vous devrez justifier de ressources suffisantes (615 € par mois au moment de la rédaction). Anticipez : les demandes de visa sont nombreuses entre juin et août."
+          }
+        ],
+        "documents": [
+          "Diplômes et relevés de notes, avec traduction certifiée en français",
+          "Attestation de comparabilité ENIC-NARIC (recommandée)",
+          "Résultat de test de français (TCF, DELF, DALF) ou d'anglais (TOEFL, IELTS) selon la formation",
+          "Lettre de motivation adaptée à chaque formation",
+          "CV au format français (une page, clair et factuel)",
+          "Lettres de recommandation pour les masters et les grandes écoles",
+          "Justificatifs de ressources pour la demande de visa"
+        ],
+        "tips": [
+          "Construisez un rétroplanning dès septembre de l'année précédant la rentrée : la plupart des échéances tombent entre décembre et avril.",
+          "Pour chaque formation, lisez les « attendus » publiés sur Parcoursup ou Mon Master et reprenez-les explicitement dans votre lettre de motivation.",
+          "Visez un équilibre entre formations très sélectives et formations accessibles : multipliez les vœux pertinents plutôt que de tout miser sur une seule école.",
+          "Demandez à un étudiant déjà admis dans la formation de relire votre dossier : il connaît les attentes réelles du jury."
+        ],
+        "pitfalls": [
+          "Rater la date limite de la DAP en décembre : il faudra attendre l'année suivante pour entrer en licence.",
+          "Candidater directement auprès d'une université alors que votre pays relève de la procédure Études en France : la candidature ne sera pas recevable.",
+          "Confondre établissements reconnus et organismes privés aux diplômes non reconnus par l'État : vérifiez que le diplôme est visé ou inscrit au RNCP.",
+          "Sous-estimer le délai d'obtention des traductions certifiées et des tests de langue, qui peut dépasser un mois."
+        ],
+        "checklist": [
+          "J'ai identifié ma procédure (Études en France, DAP, Parcoursup, Mon Master ou candidature directe)",
+          "J'ai noté toutes les dates limites dans un calendrier",
+          "J'ai passé ou programmé mon test de langue",
+          "J'ai fait traduire mes diplômes et relevés de notes",
+          "J'ai rédigé une lettre de motivation spécifique pour chaque formation",
+          "J'ai préparé mes justificatifs de ressources pour le visa"
+        ],
+        "sources": [
+          {
+            "label": "Campus France — procédure Études en France",
+            "url": "https://www.campusfrance.org"
+          },
+          {
+            "label": "Parcoursup — formations post-bac",
+            "url": "https://www.parcoursup.gouv.fr"
+          },
+          {
+            "label": "Mon Master — candidatures en master",
+            "url": "https://www.monmaster.gouv.fr"
+          },
+          {
+            "label": "France Éducation international — ENIC-NARIC",
+            "url": "https://www.france-education-international.fr"
+          }
+        ]
+      }
+    }
+  },
+  "checklistPage": {
+    "eyebrow": "Checklist personnelle",
+    "title": "Toutes vos étapes, au même endroit",
+    "subtitle": "Retrouvez les checklists des trois guides, regroupées par catégorie. Cochez chaque étape au fur et à mesure de vos démarches.",
+    "notice": "Pas besoin de créer un compte : ta progression est enregistrée automatiquement sur cet appareil.",
+    "progressTitle": "Votre progression",
+    "progress": "{done}/{total} étapes complétées",
+    "complete": "Bravo, toutes vos étapes sont complétées !",
+    "reset": "Réinitialiser ma checklist",
+    "resetConfirm": "Décocher toutes les étapes ? Cette action est irréversible.",
+    "sectionsLabel": "Sections de la checklist",
+    "fromGuide": "Issu du guide :"
+  },
+  "join": {
+    "eyebrow": "Rejoindre le réseau",
+    "title": "Posez votre question ou devenez mentor",
+    "subtitle": "Que vous prépariez votre arrivée ou que vous étudiiez déjà en France, le réseau GlobAlly Study fonctionne grâce à l'entraide entre pairs.",
+    "aside": {
+      "title": "Comment ça se passe ensuite ?",
+      "items": [
+        "Nous lisons chaque message et identifions le mentor le plus adapté à votre situation.",
+        "Vous recevez une réponse par e-mail, généralement sous 3 à 5 jours.",
+        "Les mentors sont des étudiants bénévoles : ils partagent leur expérience, pas un avis juridique."
+      ]
+    },
+    "form": {
+      "profileLegend": "Votre profil",
+      "profiles": {
+        "seeker": {
+          "title": "Étudiant international",
+          "description": "Je cherche de l'aide pour mes démarches en France."
+        },
+        "mentor": {
+          "title": "Étudiant en France",
+          "description": "Je souhaite devenir mentor et aider les nouveaux arrivants."
+        }
+      },
+      "needLabel": "Domaine",
+      "needPlaceholder": "Choisissez un domaine",
+      "needs": {
+        "admin": "Administratif",
+        "housing": "Logement",
+        "orientation": "Orientation",
+        "other": "Autre"
+      },
+      "emailLabel": "Adresse e-mail",
+      "emailPlaceholder": "prenom@exemple.com",
+      "messageLabel": "Votre message",
+      "messagePlaceholderSeeker": "Décrivez votre situation : pays d'origine, ville d'études, démarche en cours et ce qui vous bloque.",
+      "messagePlaceholderMentor": "Présentez-vous : ville, établissement, année d'études et les démarches que vous connaissez bien.",
+      "privacy": "Votre adresse e-mail sert uniquement à vous répondre. Elle n'est jamais partagée.",
+      "submit": "Envoyer",
+      "submitting": "Envoi en cours…",
+      "errors": {
+        "profile": "Veuillez choisir votre profil.",
+        "need": "Veuillez choisir un domaine.",
+        "email": "Veuillez saisir une adresse e-mail valide.",
+        "message": "Votre message doit contenir au moins 20 caractères.",
+        "submit": "L'envoi a échoué. Vérifiez votre connexion et réessayez.",
+        "notConfigured": "Le formulaire n'est pas encore relié à un service d'envoi. Renseignez FORMSPREE_ENDPOINT dans components/join/JoinForm.tsx."
+      }
+    },
+    "success": {
+      "title": "Message bien reçu, merci !",
+      "textSeeker": "Nous allons étudier votre situation et vous mettre en relation avec un mentor. Surveillez votre boîte mail, y compris le dossier des indésirables.",
+      "textMentor": "Merci de rejoindre le réseau. Nous vous recontactons très vite pour vous présenter le fonctionnement du mentorat.",
+      "again": "Envoyer un autre message",
+      "guides": "Parcourir les guides en attendant"
+    }
+  },
+  "footer": {
+    "tagline": "Le réseau d'entraide des étudiants internationaux en France.",
+    "navTitle": "Navigation",
+    "resourcesTitle": "Ressources officielles",
+    "disclaimer": "GlobAlly Study est une initiative d'entraide indépendante. Les informations publiées ne remplacent pas celles des administrations officielles.",
+    "rights": "Tous droits réservés."
+  },
+  "notFound": {
+    "title": "Cette page est introuvable",
+    "text": "Le lien est peut-être incorrect, ou la page a été déplacée.",
+    "button": "Retour à l'accueil"
+  }
+}

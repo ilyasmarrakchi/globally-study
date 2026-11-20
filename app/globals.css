@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+/*
+ * GlobAlly Study design tokens.
+ * Palette drawn from the logo: deep navy, royal blue, raspberry red on an off-white, slightly blue background.
+ */
+@theme {
+  --color-paper: #fbfcfe;
+  --color-ink: #0f1b3d;
+  --color-royal: #1e4fd6;
+  --color-royal-dark: #1740b0;
+  --color-royal-soft: #eef3ff;
+  --color-raspberry: #c4123f;
+  --color-raspberry-dark: #a30e34;
+  --color-raspberry-soft: #fdeef2;
+
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-nunito), ui-rounded, var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+
+  --radius-card: 1.5rem;
+  --radius-block: 2rem;
+
+  --shadow-soft: 0 1px 2px rgb(15 27 61 / 0.04), 0 8px 28px -12px rgb(15 27 61 / 0.12);
+  --shadow-lift: 0 2px 4px rgb(15 27 61 / 0.04), 0 22px 48px -18px rgb(15 27 61 / 0.22);
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background-color: var(--color-paper);
+    color: var(--color-ink);
+    -webkit-font-smoothing: antialiased;
+  }
+
+  ::selection {
+    background-color: var(--color-royal-soft);
+    color: var(--color-ink);
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-royal);
+    outline-offset: 3px;
+  }
+}
