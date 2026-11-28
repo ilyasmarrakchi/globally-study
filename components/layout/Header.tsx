@@ -58,7 +58,7 @@ export function Header() {
             aria-expanded={menuOpen}
             aria-controls="mobile-menu"
             aria-label={menuOpen ? t.nav.closeMenu : t.nav.openMenu}
-            className="flex h-11 w-11 items-center justify-center rounded-full bg-white text-ink shadow-soft"
+            className="flex h-11 w-11 items-center justify-center rounded-full bg-white text-ink shadow-soft transition-[scale] duration-100 ease-out-strong active:scale-[0.95]"
           >
             {menuOpen ? <CloseIcon className="h-5 w-5" /> : <MenuIcon className="h-5 w-5" />}
           </button>
@@ -66,7 +66,7 @@ export function Header() {
       </div>
 
       {menuOpen && (
-        <nav id="mobile-menu" aria-label={t.nav.mainNavigation} className="border-t border-ink/5 bg-paper px-5 pb-6 pt-3 lg:hidden">
+        <nav id="mobile-menu" aria-label={t.nav.mainNavigation} className="border-t border-ink/5 bg-paper px-5 pb-6 pt-3 transition-[opacity,translate] duration-200 ease-out-strong starting:opacity-0 motion-safe:starting:-translate-y-2 lg:hidden">
           <ul className="flex flex-col gap-1">
             {links.map((link) => (
               <li key={link.href}>

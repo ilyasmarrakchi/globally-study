@@ -29,7 +29,16 @@ function HighlightedTitle({ title, highlight }: { title: string; highlight: stri
             aria-hidden="true"
             className="absolute -bottom-2 left-0 h-3 w-full text-raspberry"
           >
-            <path d="M3 10.5C55 3.5 160 1.5 217 7" fill="none" stroke="currentColor" strokeWidth="5" strokeLinecap="round" />
+            <path
+              d="M3 10.5C55 3.5 160 1.5 217 7"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="5"
+              strokeLinecap="round"
+              pathLength={1}
+              strokeDasharray={1}
+              className="motion-safe:animate-draw [--enter-delay:380ms]"
+            />
           </svg>
         </span>
       </span>
@@ -46,7 +55,7 @@ function HeroPreview() {
   const doneCount = 2;
 
   return (
-    <div aria-hidden="true" className="relative mx-auto w-full max-w-md lg:max-w-none">
+    <div aria-hidden="true" className="relative mx-auto w-full max-w-md animate-fade [--enter-delay:200ms] motion-safe:animate-rise lg:max-w-none">
       <div className="absolute -right-6 -top-6 h-40 w-40 rounded-full bg-raspberry-soft sm:h-56 sm:w-56" />
       <div className="absolute -bottom-8 -left-8 h-48 w-48 rounded-full bg-royal-soft sm:h-64 sm:w-64" />
 
@@ -103,14 +112,12 @@ export function Hero() {
       <DocumentTitle title={t.meta.title} standalone />
       <div className="mx-auto grid max-w-6xl items-center gap-16 px-5 pb-20 pt-12 sm:px-8 sm:pb-28 sm:pt-20 lg:grid-cols-[1.15fr_0.85fr] lg:gap-12">
         <div>
-          <h1
-            className="font-display text-[2.6rem] font-black leading-[1.05] tracking-tight text-ink sm:text-6xl lg:text-[4.25rem]"
-          >
+          <h1 className="animate-fade font-display text-[2.6rem] font-black leading-[1.05] tracking-tight text-ink motion-safe:animate-rise sm:text-6xl lg:text-[4.25rem]">
             <HighlightedTitle title={t.common.baseline} highlight={hero.baselineHighlight} />
           </h1>
-          <p className="mt-8 max-w-xl text-lg leading-relaxed text-slate-600 sm:text-xl">{hero.subtitle}</p>
+          <p className="mt-8 max-w-xl animate-fade text-lg [--enter-delay:80ms] motion-safe:animate-rise leading-relaxed text-slate-600 sm:text-xl">{hero.subtitle}</p>
 
-          <div className="mt-10 flex flex-col gap-3 sm:flex-row">
+          <div className="mt-10 flex animate-fade flex-col gap-3 [--enter-delay:150ms] motion-safe:animate-rise sm:flex-row">
             <ButtonLink href="/guides" variant="primary" className="text-base">
               {hero.ctaGuides}
               <ArrowRightIcon className="h-4 w-4" />
@@ -125,7 +132,7 @@ export function Hero() {
       </div>
 
       <div className="mx-auto max-w-6xl px-5 sm:px-8">
-        <ul className="grid gap-4 rounded-block bg-white p-6 shadow-soft ring-1 ring-ink/5 sm:grid-cols-3 sm:p-8">
+        <ul className="grid animate-fade gap-4 rounded-block bg-white [--enter-delay:280ms] motion-safe:animate-rise p-6 shadow-soft ring-1 ring-ink/5 sm:grid-cols-3 sm:p-8">
           {hero.highlights.map((item, index) => (
             <li key={item} className="flex items-start gap-3 text-[0.95rem] font-semibold leading-snug text-ink">
               <span
